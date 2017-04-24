@@ -1,0 +1,222 @@
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\ApplicationInsights.config
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\roslyn\csc.exe
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\roslyn\vbc.exe
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\OnlineShopping.WebUI.dll.config
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\OnlineShopping.WebUI.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\OnlineShopping.WebUI.pdb
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\AutoMock.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Castle.Core.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\EntityFramework.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Moq.Contrib.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Moq.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Ninject.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Ninject.MockingKernel.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Ninject.MockingKernel.Moq.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\nunit.framework.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\OnlineShopping.Domain.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Rhino.Mocks.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\System.Web.Razor.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\TestFramework.NUnit.Ninject.Moq.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\WebActivatorEx.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\OnlineShopping.Domain.pdb
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Castle.Core.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\EntityFramework.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Ninject.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Ninject.MockingKernel.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Ninject.MockingKernel.Moq.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\nunit.framework.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\Rhino.Mocks.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\TestFramework.NUnit.Ninject.Moq.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\System.Web.Razor.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\obj\Debug\OnlineShopping.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\obj\Debug\OnlineShopping.WebUI.dll
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\obj\Debug\OnlineShopping.WebUI.pdb
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\ApplicationInsights.config
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\roslyn\csc.exe
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\roslyn\vbc.exe
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\OnlineShopping.WebUI.dll.config
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\OnlineShopping.WebUI.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\OnlineShopping.WebUI.pdb
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\AutoMock.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Castle.Core.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\EntityFramework.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Moq.Contrib.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Moq.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Ninject.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Ninject.MockingKernel.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Ninject.MockingKernel.Moq.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\nunit.framework.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\OnlineShopping.Domain.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Rhino.Mocks.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\System.Web.Razor.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\TestFramework.NUnit.Ninject.Moq.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\WebActivatorEx.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\OnlineShopping.Domain.pdb
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Castle.Core.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\EntityFramework.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Ninject.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Ninject.MockingKernel.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Ninject.MockingKernel.Moq.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\nunit.framework.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\Rhino.Mocks.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\TestFramework.NUnit.Ninject.Moq.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\System.Web.Razor.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\obj\Debug\OnlineShopping.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\obj\Debug\OnlineShopping.WebUI.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore - Copy\OnlineShopping.WebUI\obj\Debug\OnlineShopping.WebUI.pdb
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\ApplicationInsights.config
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\roslyn\csc.exe
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\roslyn\vbc.exe
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\OnlineShopping.WebUI.dll.config
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\OnlineShopping.WebUI.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\OnlineShopping.WebUI.pdb
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\AutoMock.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Castle.Core.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\EntityFramework.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Moq.Contrib.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Moq.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Ninject.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Ninject.MockingKernel.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Ninject.MockingKernel.Moq.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\nunit.framework.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\OnlineShopping.Domain.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Rhino.Mocks.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\System.Web.Razor.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\TestFramework.NUnit.Ninject.Moq.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\WebActivatorEx.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\OnlineShopping.Domain.pdb
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Castle.Core.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\EntityFramework.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Ninject.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Ninject.MockingKernel.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Ninject.MockingKernel.Moq.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\nunit.framework.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Rhino.Mocks.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\TestFramework.NUnit.Ninject.Moq.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\System.Web.Razor.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\obj\Debug\OnlineShopping.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\obj\Debug\OnlineShopping.WebUI.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\obj\Debug\OnlineShopping.WebUI.pdb

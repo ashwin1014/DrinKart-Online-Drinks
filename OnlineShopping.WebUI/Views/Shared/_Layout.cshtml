@@ -1,0 +1,173 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>@ViewBag.Title - DrinKart</title>
+
+	<!--Style Sheets-->
+	<link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+	<link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="~/Content/bootstrap-theme.min.css" rel="stylesheet" />
+	<link defer rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+
+	<link rel="stylesheet" href="http://sorgalla.com/jcarousel/examples/responsive/jcarousel.responsive.css" />
+
+
+	<link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Londrina+Solid" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Timmana" rel="stylesheet">
+
+
+	<style>
+		.field-validation-error {color: #f00;}
+		.field-validation-valid { display: none;}
+		.input-validation-error { border: 1px solid #f00; background-color: #fee; }
+		.validation-summary-errors { font-weight: bold; color: #f00;}
+		.validation-summary-valid { display: none;}
+	</style>
+
+
+</head>
+<body>
+
+	<!-- Navigation -->
+	<div class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background:#292C2F">
+		<div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+
+				<ul class="nav navbar-nav">
+					<li>
+
+						<a class="navbar-brand" href="#"><img src="~/Images/Beer_48px.png" style="margin-top:-12px" alt="DrinkKart Logo" /></a>
+
+					</li>
+					<li>
+
+						<a class="navbar-brand active" style="font-family: 'Londrina Solid', cursive; font-size:xx-large" href="#">DrinKart</a>
+
+					</li>
+				</ul>
+
+			</div>
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					@*<ul class="nav navbar-nav">
+
+
+
+						<li>
+							<a href="#">About</a>
+						</li>
+						<li>
+							<a href="#">Services</a>
+						</li>
+						<li>
+							<a href="#">Contact</a>
+						</li>
+					</ul>*@
+				@Html.Action("Summary", "Cart")
+				</div>
+			<!-- /.navbar-collapse -->
+		</div>
+		<!-- /.container -->
+	</div>
+
+
+	<!--End Navbar-->
+	<!--Carousel-->
+	<div class="container">
+
+		<div class="jcarousel-wrapper">
+			<div class="jcarousel">
+				<ul>
+					<li><img src="~/Images/ERISTOFF_20VODKA_20750ML_WineBox.jpg" alt="Image 1" class="img-thumbnail img-responsive"></li>
+					<li><img src="~/Images/rsz_00795c553dc6a3b955208ad7bcede170 (2).jpg" alt="Image 2" class="img-thumbnail img-responsive"></li>
+					<li><img src="~/Images/rsz_1198_1_1403268483_lrg.jpg" alt="Image 3" class="img-thumbnail img-responsive"></li>
+					<li><img src="~/Images/FN_50-States-of-Cocktails-ALASKA.jpg" alt="Image 8" class="img-thumbnail img-responsive"></li>
+					<li><img src="~/Images/rsz_150df17d503b88159848d51c4823d468 (2).jpg" alt="Image 4" class="img-thumbnail img-responsive"></li>
+					<li><img src="~/Images/rsz_sex-on-the-beach-cocktail.jpg" alt="Image 5" class="img-thumbnail img-responsive" ></li>
+					<li><img src="~/Images/TEQUILA_20CAMINO_20BLANCO_20750ML.jpg" alt="Image 6" class="img-thumbnail img-responsive"></li>
+					<li><img src="~/Images/Website_Wine_Syrah_1.jpg" alt="Image 7" class="img-thumbnail"></li>
+				</ul>
+			</div>
+
+			<a href="#" class="jcarousel-control-prev">&lsaquo;</a>
+			<a href="#" class="jcarousel-control-next">&rsaquo;</a>
+
+		</div>
+	</div>
+	<!--Carousel-->
+
+
+	<div class="row panel">
+		<div id="categories" class="col-lg-3">
+
+			<h3>Categories</h3>
+
+
+
+			@Html.Action("Menu", "Nav")
+
+		</div>
+		<br />
+		<br />
+		<br />
+		<div class="col-lg-7">
+			@RenderBody()
+		</div>
+
+	</div>
+
+	<!--footer-->
+
+	<footer class="footer-distributed" style="margin-bottom:-20px">
+
+		<div class="footer-left">
+			<p class="footer-company-name"> <img src="~/Images/Beer_48px.png" style="height:30px; width:30px" /> &copy; 2017</p>
+
+			<div class="footer-icons">
+
+				<a href="#"><i class="fa fa-facebook"></i></a>
+				<a href="#"><i class="fa fa-twitter"></i></a>
+				<a href="https://www.linkedin.com/in/ashwinbordoloi/"><i class="fa fa-linkedin"></i></a>
+				<a href="https://github.com/ashwin1014"><i class="fa fa-github"></i></a>
+
+			</div>
+
+		</div>
+
+
+		<div class="footer-right">
+
+			<p>Contact Us</p>
+
+			<form action="#" method="post">
+
+				<input type="text" name="email" placeholder="Email" />
+				<textarea name="message" placeholder="Message"></textarea>
+				<button>Send</button>
+
+			</form>
+
+		</div>
+
+
+	</footer>
+
+
+	<!--./footer-->
+	<!--Scripts-->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js" integrity="sha256-iaFenEC8axSAnyNu6M0+0epCOTwfbKVceFXNd5s/ki4=" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jcarousel/0.3.5/jquery.jcarousel.min.js" integrity="sha256-IeZIlqw8y4qMafw/TaWbqktXVww/sS9N8BkaPe3bEsQ=" crossorigin="anonymous"></script>
+	<script src="http://sorgalla.com/jcarousel/examples/responsive/jcarousel.responsive.js"></script>
+</body>
+</html>

@@ -1,0 +1,3 @@
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\Images\Website_Wine_Syrah_1.jpg|12246
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\Images\TEQUILA_20CAMINO_20BLANCO_20750ML.jpg|12865
+C:\Users\Ashwin.Bordoloi\documents\visual studio 2015\Projects\OnlineStore\OnlineShopping.WebUI\Images\ERISTOFF_20VODKA_20750ML_WineBox.jpg|18705
