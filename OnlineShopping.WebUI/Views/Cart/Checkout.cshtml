@@ -4,7 +4,7 @@
     ViewBag.Title = "Drink Checkout";
 }
 <h2>Check out now</h2>
-<p style="font-family: 'Timmana', sans-serif;">Fill in your details, your Drink will be available in a Jiffy!</p>
+<p style="font-family: 'Timmana', sans-serif; font-size:large;">Fill in your details, your Drink will be available in a Jiffy!</p>
 @using (Html.BeginForm())
 {
     @Html.ValidationSummary()
@@ -40,4 +40,7 @@
     <div class="text-center">
         <input class="btn btn-primary" type="submit" value="Complete order" />
     </div>
+
+
+
 }

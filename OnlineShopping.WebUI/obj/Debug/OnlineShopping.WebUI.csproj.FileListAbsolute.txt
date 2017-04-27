@@ -220,3 +220,5 @@ C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backu
 C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\obj\Debug\OnlineShopping.WebUI.csprojResolveAssemblyReference.cache
 C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\obj\Debug\OnlineShopping.WebUI.dll
 C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\obj\Debug\OnlineShopping.WebUI.pdb
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Recaptcha.dll
+C:\Users\Ashwin.Bordoloi\Documents\Visual Studio 2015\Projects\OnlineStore_Backup\OnlineShopping.WebUI\bin\Recaptcha.pdb

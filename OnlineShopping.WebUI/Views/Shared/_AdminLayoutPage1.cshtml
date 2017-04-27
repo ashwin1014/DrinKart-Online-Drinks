@@ -1,0 +1,43 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - DrinKart</title>
+
+    <!--Style Sheets-->
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Timmana" rel="stylesheet"/>
+
+</head>
+<body>
+
+    <div>
+        @if (TempData["message"] != null)
+        {
+            <div class="alert alert-success">@TempData["message"]</div>
+        }
+
+        @{
+            var userName = HttpContext.Current.User.Identity.Name;
+            if (userName != "")
+            {
+                <h3>@Html.ActionLink("DrinKart", "List", "Product")
+                    <span class="btn btn-info pull-right">
+                        @Html.ActionLink(HttpContext.Current.User.Identity.Name + ", Logout", "Logout", "Account");
+                    </span>
+                </h3>
+            }
+        }
+
+        @RenderBody()
+    </div>
+</body>
+</html>

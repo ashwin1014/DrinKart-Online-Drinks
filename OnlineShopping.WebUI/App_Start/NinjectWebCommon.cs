@@ -89,16 +89,10 @@ namespace OnlineShopping.WebUI.App_Start
                                 .To<EmailOrderProcessor>()
                                     .WithConstructorArgument("settings", emailSettings);
 
+            kernel.Bind<IAuthentication>().To<FormAuthenticationProvider>();
 
-            //var mock = new Mock<IProductRepository>();
-            //mock.Setup(m => m.Products).Returns(new List<Product>
-            //{
-            //    new Product {Name = "Tequila", Price =23 },
-            //    new Product {Name = "Mocktail", Price =120 },
-            //    new Product {Name = "Beer", Price =140 }
-            //});
-            //kernel.Bind<IProductRepository>()
-            //            .ToConstant(mock.Object);
+
+
         }
     }
 }

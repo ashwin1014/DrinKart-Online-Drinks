@@ -1,6 +1,18 @@
 ﻿@model OnlineShopping.Domain.Entities.Product
 
 <div class="well">
+
+    @if (Model.ImageData != null)
+    {
+        <div class="pull-left" style="margin-right: 10px">
+            <img class="img-thumbnail img-responsive" style="height:90px; width:70px"
+                 src="@Url.Action("GetImage", "Product",
+new { Model.ProductId })" />
+        </div>
+    }
+
+
+
     <h3>
         <strong><h3>@Model.Name</h3></strong>
         <span class="pull-right label label-primary"><i class="fa fa-inr"> </i>@Model.Price</span>
@@ -12,8 +24,8 @@
            @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
            @*<input type="submit" class="btn btn-primary" value="Add to Cart" />*@
 
-           <button type="submit" class="btn btn-info">
-               <i class="fa fa-cart-plus" aria-hidden="true">  </i>
+           <button type="submit" class="btn btn-info btn-sm">
+               <span class="glyphicon glyphicon-shopping-cart"></span>
            </button>
 
        </div>

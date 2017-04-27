@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using OnlineShopping.Domain.Abstract;
+using OnlineShopping.Domain.Entities;
 using OnlineShopping.WebUI.Models;
 using System.Web.Mvc.Html;
 
@@ -49,6 +50,20 @@ namespace OnlineShopping.WebUI.Controllers
 
         }
 
-
+        public FileContentResult GetImage ( int productId )
+        {
+            Product prod = repository.Products
+            .FirstOrDefault(p => p.ProductId == productId);
+            if (prod != null)
+            {
+                return File(prod.ImageData, prod.ImageMimeType);
+            }
+            else
+            {
+                return null;
+            }
         }
+
+
+    }
     }
